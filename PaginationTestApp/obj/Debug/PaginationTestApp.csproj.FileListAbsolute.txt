@@ -1,0 +1,12 @@
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\bin\Debug\PaginationTestApp.exe.config
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\obj\Debug\PaginationTestApp.csprojResolveAssemblyReference.cache
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\obj\Debug\PaginationTestApp.Form1.resources
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\obj\Debug\PaginationTestApp.Properties.Resources.resources
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\obj\Debug\PaginationTestApp.csproj.GenerateResource.Cache
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\bin\Debug\PaginationTestApp.exe
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\bin\Debug\PaginationTestApp.pdb
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\bin\Debug\Dapper.dll
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\bin\Debug\Dapper.xml
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\obj\Debug\PaginationTestApp.exe
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\obj\Debug\PaginationTestApp.pdb
+D:\Workspace\Self Demo\PaginationTestApp\PaginationTestApp\obj\Debug\PaginationTestApp.PaginationLayout.resources
